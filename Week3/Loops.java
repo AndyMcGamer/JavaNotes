@@ -1,3 +1,12 @@
+// HW 7/22
+// 1. Write a FUNCTION (NOT THE MAIN FUNCTION) with 1 parameter (some number from 1 - 100) that RETURNS the number of guesses the USER takes to guess the number
+//      Every time the user gets it wrong, we tell the user "Higher" or "Lower"
+//      Basically a guessing game where the user guesses a magic number between 1 - 100.
+
+//public static void main(String[] args){
+//    System.out.println(highOrLow(23)); // This should print out the number of guesses the user takes to guess the number 23.
+//}
+
 // HW 7/18
 // 1. Write a function with 1 parameter (num) that RETURNS the number of times we can divide num by 2 to get down to 0
 //      Example: if we give the function the number 9, it will return 4. 9/2 = 4 (integer division), 4/2 = 2, 2/2 = 1, 1/2 = 0
